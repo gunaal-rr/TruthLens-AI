@@ -1,0 +1,10 @@
+# TruthLens AI — Dependencies
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+langdetect>=1.0.9
+httpx>=0.27.0
+scikit-learn>=1.4.0
+pytest>=8.1.0
+pytest-asyncio>=0.23.0
